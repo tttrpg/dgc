@@ -121,7 +121,7 @@ a:focus, a:hover {
 }
 body {
     padding: 3em 0;
-    background: url(../images/bg.jpg); 
+    background: url(http://img.itjustfun.cn/bg.jpg); 
 	background-attachment:fixed;
 	background-size:cover;
 }
@@ -1022,7 +1022,7 @@ span.fa.fa-lock {
 	  display: inline-block;
 	  width: 120px;
 	  height: 120px;
-	 background-image: url(../images/head1.jpg);
+	 background-image: url(http://img.itjustfun.cn/head1.jpg);
 	 background-size: 100%;
 	 border-radius: 50%;
 	background-repeat: no-repeat;
@@ -1037,7 +1037,7 @@ span.fa.fa-lock {
 	display: inline-block;
 	width: 120px;
 	height: 120px;
-   background-image: url(../images/head2.jpg);
+   background-image: url(http://img.itjustfun.cn/head2.jpg);
    background-size: 100%;
    border-radius: 50%;
   background-repeat: no-repeat;
